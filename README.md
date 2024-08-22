@@ -10,4 +10,5 @@ Demo
 
 ---
 
-![demo](demo/1.jpg)![demo](demo/2.jpg)![demo](demo/3.jpg)
+<img src ="demo/1.jpg" width = 220 > <img src ="demo/2.jpg" width = 220 > <img src ="demo/3.jpg" width = 220 >
+
